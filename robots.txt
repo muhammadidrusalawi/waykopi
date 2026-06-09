@@ -1,0 +1,12 @@
+﻿# WayKopi - robots.txt
+# https://waykopi.vercel.app
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://waykopi.vercel.app/sitemap.xml
+
+# Block unnecessary paths
+Disallow: /assets/
+
